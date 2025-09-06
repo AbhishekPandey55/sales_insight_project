@@ -1,4 +1,5 @@
-# Step 1: Import the necessary libraries
+# Step 1: Import the necessary libraries -
+
 import pandas as pd
 import numpy as np
 
@@ -103,7 +104,8 @@ print("\n" + "="*50)
 print("STEP 7: Exploratory Data Analysis")
 print("="*50)
 
-# Import the visualization libraries
+# Import the visualization libraries --
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
